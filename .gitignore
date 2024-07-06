@@ -7,3 +7,8 @@ src/config.ts
 **/*.todo
 src/test/**/*
 src/data/**/*
+
+# misc
+.DS_Store
+.build
+dist
